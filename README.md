@@ -33,3 +33,7 @@ The project is built with emphasis on clean component architecture rather than p
 - FindObjectsByType is called during resource search (cached via SearchInterval)
 - Target validation checks every frame (but with interval-based polling)
 
+
+
+https://github.com/user-attachments/assets/f8b41cdc-e602-4ea5-af2e-5818380d2a7e
+
